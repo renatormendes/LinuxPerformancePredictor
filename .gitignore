@@ -1,0 +1,7 @@
+__pycache__/
+*.csv
+blocked_ips.txt
+data/auth_sample.log
+.ipynb_checkpoints/
+.streamlit/
+venv/

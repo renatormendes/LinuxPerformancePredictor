@@ -1,0 +1,4 @@
+pandas
+scikit-learn
+maxminddb-geolite2
+streamlit
