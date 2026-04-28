@@ -1,3 +1,4 @@
+<img width="1368" height="749" alt="Captura de tela" src="https://github.com/user-attachments/assets/2a428443-ab21-4067-ac9d-3b4d912a1606" />
 # 🛡️ Linux SecDataOps: Detecção de Intrusão com IA
 
 Este projeto demonstra uma pipeline completa de Ciência de Dados aplicada à Segurança de Sistemas Linux. Ele monitora tentativas de invasão via SSH, utiliza Machine Learning para identificar comportamentos anômalos e automatiza o bloqueio de IPs maliciosos.
